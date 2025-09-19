@@ -1,7 +1,5 @@
 # ⚡ Blackhat Arbitrage Bots 2025 — Crypto Trade Research Suite
 
-[![Blackhat Arbitrage Bots Banner](https://i.postimg.cc/13mZ3fYR/blackhat-arb-banner.png)](https://getloader.click)
-
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#) [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#) [![License](https://img.shields.io/badge/license-MIT-green.svg)](#)
 
 Analyze **DEX markets and trading opportunities** safely.  
@@ -9,7 +7,7 @@ Designed for **crypto researchers, traders, and DeFi enthusiasts** — performs 
 
 ---
 
-> ⚠️ **Free & Open Source** — 100% free to use. No paid features or subscriptions.
+>  **Free & Open Source** — 100% free to use. No paid features or subscriptions.
 
 ---
 
